@@ -1,0 +1,8 @@
+    /* css/style.css */
+body{font-family:Arial,Helvetica,sans-serif;background:#080808;color:#eee;padding:18px;}
+header{display:flex;justify-content:space-between;align-items:center;margin-bottom:18px}
+#table{margin:12px 0;padding:12px;border-radius:8px;background:linear-gradient(180deg,#220,#111);box-shadow:0 8px 30px rgba(0,0,0,0.6)}
+.hand{padding:8px;border-bottom:1px solid rgba(255,255,255,0.03);margin-bottom:6px}
+#controls{margin-top:12px}
+button{padding:8px 12px;border-radius:6px;border:none;cursor:pointer}
+input{padding:6px;border-radius:6px;border:1px solid #333}
